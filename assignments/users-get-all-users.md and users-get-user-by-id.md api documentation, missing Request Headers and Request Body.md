@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Using Request Headers and Request Body in API Documentation 
+# Using Request Headers and Request Body in your API Documentation 
 
 ## What is a Request Header?
 
