@@ -1,6 +1,6 @@
 # Advantages and Disadvantages of Markdown
 ## Advantages
-<strong>Versatility in Tagging:</strong>
+**Versatility in Tagging:**
 For instance, you can use a variety of tags to indicate that you want a bold string. I am familiar with the `strong` tag to get bold, but was unfamiliar I could also use the `**` tag to accomplish the same tag.  
 
 <strong>Simplicity:</strong>
