@@ -6,7 +6,7 @@ For instance, you can use a variety of tags to indicate that you want a bold str
 <strong>Simplicity:</strong>
 Relative to other documentation languages, like HTML and XML, the formatting is extremely straightforward. Markdown reminds me of rich text format, for example:
 - To create italics you can use the `em` tag
-* I suspect you can also use the `h1` tag for headings
+- I suspect you can also use the `h1` tag for headings
 + The `p` tag for paragraphs
 
   
