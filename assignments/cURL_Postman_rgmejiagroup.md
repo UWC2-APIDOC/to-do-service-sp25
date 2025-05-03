@@ -33,11 +33,3 @@ curl http://localhost:3000/tasks
   "title": "New Task from Postman",
   "completed": false
 }
-
-
----
-
-### ✅ Once that’s added:
-
-1. Scroll down
-2. Commit message:  
