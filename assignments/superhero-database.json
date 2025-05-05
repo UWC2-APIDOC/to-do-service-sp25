@@ -1,5 +1,5 @@
 {
-  "dcComics": [
+  "marvelComics": [
     {
       "superHero": "Captain_America",
       "villain": "Doctor_Doom",
@@ -8,7 +8,7 @@
       "total": "4"
     }
   ],
-  "marvelComics": [
+  "dcComics": [
     {
       "superHero": "Superman",
       "villain": "Lex_Luther",
