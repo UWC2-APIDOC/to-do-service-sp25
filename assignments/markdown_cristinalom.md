@@ -1,9 +1,11 @@
 # Advantages and Disadvantages of Markdown
+
 ## Advantages
+
 **Versatility in Tagging:**
 For instance, you can use a variety of tags to indicate that you want a bold string. I am familiar with the `strong` tag to get bold, but was unfamiliar I could also use the `**` tag to accomplish the same tag.  
 
-<strong>Simplicity:</strong>
+**Simplicity:**
 Relative to other documentation languages, like HTML and XML, the formatting is extremely straightforward. Markdown reminds me of rich text format, for example:
 - To create italics you can use the `em` tag
 - I suspect you can also use the `h1` tag for headings
