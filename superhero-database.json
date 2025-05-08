@@ -1,0 +1,20 @@
+{
+  "marvelComics": [
+    {
+      "superHero": "Captain_America",
+      "villain": "Doctor_Doom",
+      "superPet": "Lockjaw",
+      "civilians": "Mary_Jane",
+      "total": 4
+    }
+  ],
+  "dcComics": [
+    {
+      "superHero": "Superman",
+      "villain": "Lex_Luther",
+      "superPet": "Krypto",
+      "civilians": "Lois_Lane",
+      "total": 4
+    }
+  ]
+}
