@@ -15,11 +15,11 @@ subscribers can post tasks and receive reminders of those tasks.
 If this topic doesn't tell you what you want to know about
 the To-Do service, try one of these overview topics.
 
-* [_Placeholder_](./overviews/placeholder.md)
+* [_Placeholder_](./overviews/to-do-overview_cristinalom.md)
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use
 
 ## Tutorials
 
