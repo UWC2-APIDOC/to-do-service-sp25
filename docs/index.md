@@ -19,7 +19,7 @@ the To-Do service, try one of these overview topics.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use.
 
 ## Tutorials
 
