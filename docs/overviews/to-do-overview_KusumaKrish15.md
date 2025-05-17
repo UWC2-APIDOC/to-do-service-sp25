@@ -7,8 +7,8 @@ Before you start any tutorial, it's important to set up your development system.
 ## Available tutorials
 Once your system is ready, you can follow these tutorials to perform common tasks:
 
-- **Enroll a new user**: Learn how to enroll a new user in the To-Do service. Refer to the User resource API reference. 
-- **Add a new task**: Understand the process of adding a new task. Refer to the Task resource API reference.
+- **Enroll a new user**: Learn how to enroll a new user in the To-Do service. Refer to the [User resource API reference](#### User resource). 
+- **Add a new task**: Understand the process of adding a new task. Refer to the [Task resource API reference](#### Task resource).
 
 ## API References
 The API reference documentation provides detailed descriptions of the service’s resources.
@@ -17,5 +17,7 @@ The API reference documentation provides detailed descriptions of the service’
 The API reference docs refer to a {base_url} when mentioning the URL of a resource. The {base_url} value depends on the installation of the service. When run locally for testing, the {base_url} is generally http://localhost:3000.
 
 ### Resources
-- **User resource**: Detailed information about the user resource.
-- **Task resource**: Detailed information about the task resource.
+#### User resource**
+Detailed information about the user resource.
+#### Task resource
+Detailed information about the task resource.
