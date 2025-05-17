@@ -17,7 +17,7 @@ The API reference documentation provides detailed descriptions of the service’
 The API reference docs refer to a {base_url} when mentioning the URL of a resource. The {base_url} value depends on the installation of the service. When run locally for testing, the {base_url} is generally http://localhost:3000.
 
 ### Resources
-#### User resource**
+#### User resource
 Detailed information about the user resource.
 #### Task resource
 Detailed information about the task resource.
