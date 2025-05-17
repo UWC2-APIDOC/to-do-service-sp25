@@ -31,7 +31,7 @@ Deleting a user from the service requires that you use the `DELETE` method to re
             "email": "joe.johnson@example.com"
         }
 4. In the Postman app, choose **Send** to make the request.
-5. Watch for the response body, which should confirm the deletion of the user. Note that the names should be the same as you used in your **Request body** and the response should include the new user's `id`.
+5. Watch for the response body, which should confirm the deletion of the user. Note that the names should be the same as you used in your **Request body** and the **Response** should delete the new user's `id`.
 
     ```js
     {
