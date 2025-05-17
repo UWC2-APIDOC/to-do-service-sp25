@@ -7,8 +7,8 @@ Before you start any tutorial, it's important to set up your development system.
 ## Available tutorials
 Once your system is ready, you can follow these tutorials to perform common tasks:
 
-- **Enroll a new user**: Learn how to enroll a new user in the To-Do service. Refer to the [User resource API reference](#### User resource). 
-- **Add a new task**: Understand the process of adding a new task. Refer to the [Task resource API reference](#### Task resource).
+- **Enroll a new user**: Learn how to enroll a new user in the To-Do service. Refer to the User resource API reference. 
+- **Add a new task**: Understand the process of adding a new task. Refer to the Task resource API reference.
 
 ## API References
 The API reference documentation provides detailed descriptions of the service’s resources.
