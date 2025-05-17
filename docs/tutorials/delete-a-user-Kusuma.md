@@ -2,7 +2,7 @@
 In this tutorial, you learn the operations to call to delete a user from the service. Expect this tutorial to take about 15 minutes to complete.
 
 ## Before You Start
-Make sure you've completed the "Before you start a tutorial" topic on the development system you'll use for the tutorial.
+Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic on the development system you'll use for the tutorial.
 
 ## Delete a User
 Deleting a user from the service requires that you use the DELETE method to remove the user resource from the service.
