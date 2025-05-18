@@ -1,6 +1,6 @@
 # ✓ Effortless to-do list integration
 
-| [**Get started**](../../docs/before-you-start-a-tutorial.md) | [**Tutorials**](../../docs/tutorials.md) | [**Search the docs**](../../docs/placeholder.md) |
+| [**Get started**](../../docs/before-you-start-a-tutorial.md) | [**Tutorials**](../../docs/tutorials.md) | [**Search the docs**](../../docs/overviews/placeholder.md) |
 
 Integrate task management into your apps with the to-do service. You can [**create**](../../docs/tutorials/add-a-new-task.md), [**prioritize**](../../docs/overviews/placeholder.md), and [**remind**](../../docs/overviews/placeholder.md) with just a few RESTful API calls. The service and your data is [**securely hosted**](../../docs/overviews/placeholder.md) in the to-do service private cloud.
 
