@@ -1,10 +1,8 @@
-# To-do service API
+# ✓ Effortless to-do list integration
 
-[**Get started**](https://uwc2-apidoc.github.io/to-do-service-sp25/before-you-start-a-tutorial/) | [**Tutorials**](https://uwc2-apidoc.github.io/to-do-service-sp25/tutorials/) | [**Search the docs**](https://some-link-here/)
+| [**Get started**](../../docs/before-you-start-a-tutorial.md) | [**Tutorials**](../../docs/tutorials.md) | [**Search the docs**](../../docs/placeholder.md) |
 
-## ✓ Effortless to-do list integration
-
-Integrate task management into your apps with the to-do service. You can [**create**](./tutorials/add-a-new-task/), [**prioritize**](./tutorials/add-a-new-task/), and [**remind**](placeholder.md/api/task/) with just a few RESTful API calls. The service and your data is [**securely hosted**](https://some-link-here/) in the to-do service private cloud.
+Integrate task management into your apps with the to-do service. You can [**create**](../../docs/tutorials/add-a-new-task.md), [**prioritize**](../../docs/overviews/placeholder.md), and [**remind**](../../docs/overviews/placeholder.md) with just a few RESTful API calls. The service and your data is [**securely hosted**](../../docs/overviews/placeholder.md) in the to-do service private cloud.
 
 *Example of JSON used to create a new user with the POST method and an endpoint of `{base_url}/tasks`*
 
@@ -20,4 +18,4 @@ Integrate task management into your apps with the to-do service. You can [**crea
 
 ## » Active developer community
 
-[**Connect**](https://some-link-here/) with fellow developers and [**contribute**](https://github.com/UWC2-APIDOC/to-do-service-sp25) to the growth of the to-do service.
+[**Connect**](../../docs/overviews/placeholder.md) with fellow developers and [**contribute**](https://github.com/UWC2-APIDOC/to-do-service-sp25) to the growth of the to-do service.
