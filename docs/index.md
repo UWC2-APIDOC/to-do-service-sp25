@@ -17,10 +17,11 @@ the To-Do service, try one of these overview topics.
 
 * [_Placeholder_](./overviews/placeholder.md)
 * [To-Do Service API: Effortless to-do list integration](./overviews/to-do-overview_juliebro.md)
+* [To-Do Overview Cristinalom](./overviews/to-do-overview_cristinalom.md)
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use
 
 ## Tutorials
 
