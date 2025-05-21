@@ -20,7 +20,7 @@ the To-Do service, try one of these overview topics.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use.
 
 ## Tutorials
 
@@ -34,6 +34,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
+* [Get all tasks](tutorials/get-all-tasks.md)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 
