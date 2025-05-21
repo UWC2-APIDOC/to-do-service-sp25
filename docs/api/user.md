@@ -44,6 +44,7 @@ Sample `user` resource
 
 * [Get all users](users-get-all-users.md)
 * [Get users by ID](users-get-user-by-id.md)
+* [Get user by last name](./users-get-user-by-last-name.md)
 
 ## Delete operations
 
