@@ -45,4 +45,4 @@ Sample `task` resource
 
 * [Get all tasks _(coming soon)_](#resource-properties)
 * [Get task by ID _(coming soon)_](#resource-properties)
-* [Get task by user ID _(coming soon)_](#resource-properties)
+* [Get task by user ID](tasks-get-tasks-by-user-id.md)
