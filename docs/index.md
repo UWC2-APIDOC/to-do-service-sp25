@@ -20,7 +20,7 @@ the To-Do service, try one of these overview topics.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+You can get started with your API documentation, using the [Introduction to using Request Headers and Request Body in your API Documentation](docs/overviews/to-do-overview_Davejurgens.md) quickstart guide to see how easy it is to use!
 
 ## Tutorials
 
@@ -50,3 +50,5 @@ generally `http://localhost:3000`.
 
 * [user resource](api/user.md)
 * [task resource](api/task.md)
+
+
