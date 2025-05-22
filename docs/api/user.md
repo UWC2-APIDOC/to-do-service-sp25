@@ -44,3 +44,4 @@ Sample `user` resource
 
 * [Get all users](users-get-all-users.md)
 * [Get users by ID](users-get-user-by-id.md)
+* [Post users](users-post-users.md)
