@@ -50,3 +50,4 @@ generally `http://localhost:3000`.
 
 * [user resource](api/user.md)
 * [task resource](api/task.md)
+* [add a task resource](api/tasks-add-a-task.md)
