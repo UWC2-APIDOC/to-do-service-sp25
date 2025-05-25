@@ -47,3 +47,7 @@ Sample `task` resource
 * [Get task by ID _(coming soon)_](#resource-properties)
 * [Get task by user ID](tasks-get-tasks-by-user-id.md)
 * [get task with full-text search](./tasks-get-tasks-with-search)
+
+## UPDATE
+
+* [Put task by ID](../api/tasks-put-task-by-id.md)
