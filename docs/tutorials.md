@@ -13,3 +13,4 @@ before you start your first tutorial.
 * [Add a new task](tutorials/add-a-new-task.md)
 * [Get a task by ID](tutorials/get-task-by-id.md)
 * [Get user by user ID](./tutorials/get-user-by-user-id.md)
+* [Get a user by last name](tutorials/get-a-user-by-last-name.md)
