@@ -27,28 +27,8 @@ Deleting a user from the service requires that you use the `DELETE` method to re
         * Replace `{userId}` with the actual ID of the user you want to delete
     * **Headers**:
         * `Content-Type: application/json`
-    * **Request body**:
-        You can change the values of each property as you'd like.
-
-        ```js
-        {
-            "last_name": "Joe",
-            "first_name": "Johnson",
-            "email": "joe.johnson@example.com"
-        }
-        ```
 
 4. In the Postman app, choose **Send** to make the request.
-5. Watch for the response body, which should confirm the deletion of the user. Note that the names should be the same as you used in your **Request body** and the **Response** should delete the new user's `id`.
-
-    ```js
-    {
-        "last_name": "Joe",
-        "first_name": "Johnson",
-        "email": "joe.johnson@example.com",
-        "id": 2
-        "message": "User successfully deleted."
-    }
-    ```
+5. Watch for the response body, which should confirm the deletion of the user. A status value of 200 indicates the user with the specified `userId` is successfully deleted.
   
 After doing this tutorial in Postman, you might like to repeat it in your favorite programming language. To do this, adapt the values from the tutorial to the properties and arguments that the language uses to make REST API calls.
