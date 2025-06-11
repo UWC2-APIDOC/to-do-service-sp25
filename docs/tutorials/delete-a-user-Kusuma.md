@@ -14,7 +14,7 @@ Deleting a user from the service requires that you use the `DELETE` method to re
 
 1. Make sure your local service is running, or start it by using this command, if it's not:
 
-   ```shell
+    ```shell
     cd <your-github-workspace>/to-do-service/api
     json-server -w to-do-db-source.json
     ```
