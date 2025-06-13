@@ -17,13 +17,12 @@ curl http://localhost:3000/cats/1
 ```shell
 ```
 {
-    "Breed": "Main Coon",
-    "Life Span": "9-15 years",
-    "Coat": "Dense double coat",
-    "Color": "black",
-    "id": 1
-  }
-
+   "Breed": "Main Coon",
+   "Life Span": "9-15 years",
+   "Coat": "Dense double coat",
+   "Color": "black",
+   "id": 1
+}
 ```
 
 ## Postman example
@@ -32,7 +31,7 @@ The following cURL example gets data for the 2024 Dodge TRX with the id of 2.
 
 ### Request
 
-
+## Method
 
 ```shell
 http://localhost:3000/dogs/1
@@ -43,10 +42,10 @@ http://localhost:3000/dogs/1
 ```shell
 ```
 {
-    "Breed": "Belgian Malinois",
-    "Life Span": "12-16 years",
-    "Coat": "short double coat",
-    "Color": "Mahogany with black mask",
-    "id": 1
-  }
+   "Breed": "Belgian Malinois",
+   "Life Span": "12-16 years",
+   "Coat": "short double coat",
+   "Color": "Mahogany with black mask",
+   "id": 1
+}
 ```
