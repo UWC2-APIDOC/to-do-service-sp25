@@ -15,7 +15,8 @@ curl http://localhost:3000/users
 ### cURL response
 
 ``` shell
-{
+[
+  {
     "last_name": "Smith",
     "first_name": "Ferdinand",
     "email": "f.smith@example.com",
@@ -39,6 +40,7 @@ curl http://localhost:3000/users
   "email": "b.bailey@example.com",
   "id": 4
 }
+]
 ```
 
 ## Postman example
