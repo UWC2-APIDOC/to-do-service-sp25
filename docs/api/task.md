@@ -41,10 +41,12 @@ Sample `task` resource
 | `warning` | number | The number of minutes relative to the `due_date` to alert the user of the task. This is normally a negative number to alert the user before the `due_date`.|
 | `id` | number | The task's unique record ID |
 
-## Read
+## READ
 
 * [Get all tasks](./get-tasks.md)
 * [Get task by ID _(coming soon)_](#resource-properties)
+Feature4
+* [Get task by user ID _(coming soon)_](#resource-properties)
 * [Get task by user ID](./tasks-get-tasks-by-user-id.md)
 * [get task with full-text search](./tasks-get-tasks-with-search)
 
@@ -58,4 +60,4 @@ Sample `task` resource
 
 ## Delete
 
-* [Delete a task by ID](./tasks-delete-id.md)
+* [Delete a task by ID](./tasks-delete-id.md) main
